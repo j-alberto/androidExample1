@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Ejercicio 1</string>
+    <string name="app_greeting">Bienvenido</string>
+    <string name="app_enter">Entrar</string>
+</resources>
